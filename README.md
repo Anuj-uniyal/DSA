@@ -2,7 +2,7 @@ DSA
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-## Binary Tree
+## contest
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0100-same-tree) |
