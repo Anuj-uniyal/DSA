@@ -19,11 +19,11 @@ public:
     int sumDecoded(vector<long long>& nums) {
         const long long MOD = 1000000007;
 
-        vector<long long> v = nums;
+       
 
         long long ans = 0;
 
-        for (long long num : v) {
+        for (long long num : nums) {
             int width = num % 10;
             long long d = num / 10;
 
