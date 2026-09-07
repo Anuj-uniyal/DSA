@@ -14,6 +14,7 @@ DSA
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anuj-uniyal/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -24,6 +25,7 @@ DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Anuj-uniyal/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -62,10 +64,12 @@ DSA
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anuj-uniyal/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
