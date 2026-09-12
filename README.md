@@ -107,4 +107,12 @@ DSA
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anuj-uniyal/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anuj-uniyal/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
