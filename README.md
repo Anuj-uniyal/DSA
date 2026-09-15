@@ -122,8 +122,10 @@ DSA
 |  |
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anuj-uniyal/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anuj-uniyal/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 <!---LeetCode Topics End-->
