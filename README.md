@@ -118,4 +118,12 @@ DSA
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anuj-uniyal/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Anuj-uniyal/DSA/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+## String
+|  |
+| ------- |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 <!---LeetCode Topics End-->
