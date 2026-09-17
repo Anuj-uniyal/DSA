@@ -54,6 +54,7 @@ DSA
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,12 @@ DSA
 | ------- |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anuj-uniyal/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+## Matrix
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
+## Simulation
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
