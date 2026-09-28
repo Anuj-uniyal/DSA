@@ -56,6 +56,7 @@ DSA
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ DSA
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@ DSA
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +129,7 @@ DSA
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anuj-uniyal/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
@@ -141,4 +145,20 @@ DSA
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
