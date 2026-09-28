@@ -9,8 +9,8 @@ public:
 > pq;
 
 for(auto point : points) {
-    long long dist = 1LL * point[0] * point[0]
-                   + 1LL * point[1] * point[1];
+    long long dist = point[0] * point[0]
+                   +  point[1] * point[1];
 
     pq.push({dist, {point[0], point[1]}});
 }
