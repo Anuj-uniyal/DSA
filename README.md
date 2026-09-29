@@ -55,12 +55,14 @@ DSA
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Two Pointers
@@ -74,6 +76,7 @@ DSA
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
@@ -114,6 +117,7 @@ DSA
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -152,13 +156,23 @@ DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
