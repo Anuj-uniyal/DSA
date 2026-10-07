@@ -57,6 +57,7 @@ DSA
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
@@ -69,6 +70,7 @@ DSA
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +80,7 @@ DSA
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
@@ -175,4 +178,12 @@ DSA
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
