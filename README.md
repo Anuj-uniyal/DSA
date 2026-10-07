@@ -58,6 +58,7 @@ DSA
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Anuj-uniyal/DSA/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
@@ -182,6 +183,7 @@ DSA
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Anuj-uniyal/DSA/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
