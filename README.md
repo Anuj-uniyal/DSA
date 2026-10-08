@@ -54,6 +54,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -182,10 +183,15 @@ DSA
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anuj-uniyal/DSA/tree/master/0860-lemonade-change) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
