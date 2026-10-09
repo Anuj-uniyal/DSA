@@ -63,6 +63,7 @@ DSA
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0999-available-captures-for-rook](https://github.com/Anuj-uniyal/DSA/tree/master/0999-available-captures-for-rook) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Anuj-uniyal/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-uniyal/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,6 +143,7 @@ DSA
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-uniyal/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Anuj-uniyal/DSA/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## String
 |  |
@@ -189,6 +191,7 @@ DSA
 | [0455-assign-cookies](https://github.com/Anuj-uniyal/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Anuj-uniyal/DSA/tree/master/0860-lemonade-change) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Anuj-uniyal/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-uniyal/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Quicksort
 |  |
 | ------- |
