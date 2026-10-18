@@ -54,6 +54,7 @@ DSA
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anuj-uniyal/DSA/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -78,6 +79,7 @@ DSA
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anuj-uniyal/DSA/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Anuj-uniyal/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
