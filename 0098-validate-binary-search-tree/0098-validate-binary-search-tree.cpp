@@ -18,6 +18,7 @@ public:
         inorder(curr->left,prev,isBst);
         if(prev!=nullptr && curr->val<=prev->val){
             isBst=false;
+            return;
         }
         prev=curr;
         inorder(curr->right,prev,isBst);
