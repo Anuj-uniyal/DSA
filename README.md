@@ -26,6 +26,7 @@ DSA
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -43,6 +44,7 @@ DSA
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -120,6 +122,7 @@ DSA
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Anuj-uniyal/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -213,4 +216,8 @@ DSA
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
