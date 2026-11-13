@@ -160,6 +160,7 @@ DSA
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Anuj-uniyal/DSA/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/Anuj-uniyal/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-uniyal/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-uniyal/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -219,8 +220,13 @@ DSA
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anuj-uniyal/DSA/tree/master/0070-climbing-stairs) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anuj-uniyal/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
