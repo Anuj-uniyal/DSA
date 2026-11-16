@@ -65,6 +65,7 @@ DSA
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anuj-uniyal/DSA/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Anuj-uniyal/DSA/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Anuj-uniyal/DSA/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anuj-uniyal/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Anuj-uniyal/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -229,4 +230,12 @@ DSA
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anuj-uniyal/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anuj-uniyal/DSA/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Anuj-uniyal/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
