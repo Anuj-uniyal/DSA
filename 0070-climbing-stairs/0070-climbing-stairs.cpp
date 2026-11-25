@@ -1,14 +1,19 @@
 class Solution {
 public:
+   int idk(int i,int n,vector<int>&dp){
+    if(i==n)return 1;
+    if(i>n)return 0;
+    if(dp[i]!=-1){
+        return dp[i];
+    }
+   int a=idk(i+1,n,dp);
+   int b=idk(i+2,n,dp);
+   dp[i]=a+b;
+   return dp[i];
+   }
     int climbStairs(int n){
+        vector<int>dp(n+1,-1);
         if(n<=1)return 1;
-        int prev1=1;
-        int prev2=1;
-        for(int i=2;i<=n;++i){
-            int curr=prev1+prev2;
-            prev1=prev2;
-            prev2=curr;
-        }
-        return prev2;
+        return idk(0,n,dp);
     }
 };
